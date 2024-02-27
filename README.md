@@ -3,9 +3,9 @@ A simple calendar domain API for managing events.
 ## Installation
 
 ```bash
-npm install your-package-name
+npm install mero-calendar-api
 
-import { Calendar } from 'your-package-name';
+import { Calendar } from 'mero-calendar-api';
 
 how to use:
 const calendar = new Calendar();
