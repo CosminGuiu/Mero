@@ -1,0 +1,19 @@
+{
+  "name": "mero-calendar-api",
+  "version": "1.0.0",
+  "description": "Mero calendar api library",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "@types/jest": "^26.x",
+    "jest": "^26.x",
+    "ts-jest": "^26.x",
+    "typescript": "^4.x"
+  }
+}
